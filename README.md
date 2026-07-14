@@ -6,7 +6,7 @@ Sou natural de Salvador, Bahia, onde nasci e cresci. Sou formado em Ciências Co
 
 Atualmente, atuo como Trainee de Desenvolvimento na HubNexxo, onde trabalho desenvolvendo automações, integrações de sistemas, scrapers, APIs e soluções baseadas em arquitetura de microsserviços. Meu foco é criar ferramentas que aumentem a eficiência operacional, otimizem processos e gerem impacto real no dia a dia da empresa. Acredito que a tecnologia é uma ferramenta poderosa para transformar processos e resolver problemas. Estou sempre em busca de novos desafios, aprendizado contínuo e oportunidades para desenvolver soluções que agreguem valor para pessoas e organizações.
 
-"Everybody should learn to program a computer, because it teaches you how to think." — Steve Jobs
+Everybody should learn to program a computer, because it teaches you how to think. — Steve Jobs
 ---
 
 ### 🤖Linguagens e Tecnologias
