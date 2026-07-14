@@ -1,4 +1,4 @@
-# Olá, eu sou André Ricardo
+# 👨🏻‍💻Olá, eu sou André Ricardo
 
 **`Desenvolvedor FullStack`**
 
